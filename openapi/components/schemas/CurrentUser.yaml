@@ -102,6 +102,8 @@ properties:
     type: boolean
   hasPendingEmail:
     type: boolean
+  hasSharedConnectionsOptOut:
+    type: boolean
   hideContentFilterSettings:
     type: boolean
   homeLocation:
