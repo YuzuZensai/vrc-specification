@@ -94,6 +94,8 @@ properties:
     type: string
   hasBirthday:
     type: boolean
+  hasDiscordFriendsOptOut:
+    type: boolean
   hasEmail:
     type: boolean
   hasLoggedInFromClient:
